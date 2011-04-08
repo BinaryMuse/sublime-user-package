@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[before(:each) do
-	$0
-end]]></content>
-    <tabTrigger>be</tabTrigger>
-    <scope>source.ruby</scope>
-    <description>before(:each) do</description>
-</snippet>

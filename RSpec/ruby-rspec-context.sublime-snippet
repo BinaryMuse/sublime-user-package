@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[context "$1" do
-	$0
-end]]></content>
-    <tabTrigger>cont</tabTrigger>
-    <scope>source.ruby</scope>
-    <description>context "..." do</description>
-</snippet>
