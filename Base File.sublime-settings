@@ -3,7 +3,7 @@
 // here, to ensure they're preserved when upgrading.
 {
   "font_face": "Bitstream Vera Sans Mono",
-  "font_size": 11.5,
+  "font_size": 12.5,
   "color_scheme": "Packages/User/Railscasts.tmTheme",
   "rulers": [80, 100],
   "tab_size": 2,
